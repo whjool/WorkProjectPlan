@@ -4,7 +4,7 @@
 
 ## 首先我们先来说说coco2dx的配置
 
-新建一个工程,请参考\[官网流程\]\(http:\/\/www.cocos.com\/docs\/native\/v3\/getting-started\/setting-up-development-environments-on-mac-with-xcode\/zh.html\)
+新建一个工程,请参考 \[官网流程\] \(http:\/\/www.cocos.com\/docs\/native\/v3\/getting-started\/setting-up-development-environments-on-mac-with-xcode\/zh.html\)
 
 但是这个新建的文件是一个空文件,如果要添加一些coco2dx或者要改引入的工程文件请注意!
 
@@ -62,13 +62,7 @@
 
 `$(SRCROOT)/../../cocos2dx-310/cocos/platform/`
 
-
-
 ## 关于MRC部分
 
 由于coco2dx使用的是向下兼容所以,主要就是MRC,之前我用的是block+inline的函数,但是发现一个很重要的问题!
-
-
-
-
 
