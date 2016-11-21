@@ -7,6 +7,6 @@
 * [ZSSDK Catalog](zssdk-catalog.md)
 
 ## FishGame
-* FishGameTable
+* [FishGameTable](fishgametable.md)
 * [Configation](configation.md)
 
